@@ -1,25 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header)
 
-# Younghwan Kim
+<div align="center">
+  <h2>Younghwani</h2>
+  
+  <p>Hi~ I'm Younghwan! 😀 <br />
+  I’m currently learning Web, NLP, ML(DL), Ios, Android!<br />
+  📫 How to reach me<br />
+    <a href="mailto:younghwankim624@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a></p>
+  
+  <br /> <br />
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyounghwani&count_bg=%2366C1DF&title_bg=%234680ED&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
+  <br /> 
+  <p>-----</p>
+  <br />
+</div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyounghwani&count_bg=%2366C1DF&title_bg=%234680ED&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<!--
-**younghwani/younghwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h3 align="center"><b> 💻   Tech Stack   💻 </b></h3>
+<h3 align="center"><b>🖥 Tech Stack 🖥</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/></a> &nbsp
