@@ -2,7 +2,7 @@
 
 # Younghwan Kim
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyounghwani&count_bg=%2366C1DF&title_bg=%234680ED&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **younghwani/younghwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
