@@ -8,7 +8,9 @@
   📫 How to reach me<br />
     <a href="mailto:younghwankim624@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a></p>
   
-  <br /> <br />
+![Younghwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghwani&count_private=true&show_icons=true&theme=tokyonight)
+
+  <br />
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyounghwani&count_bg=%2366C1DF&title_bg=%234680ED&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
   <br /> 
