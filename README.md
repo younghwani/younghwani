@@ -25,7 +25,6 @@
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/></a> &nbsp
 <img src="https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=flate&logo=c&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/></a> &nbsp </p>
