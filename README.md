@@ -4,8 +4,8 @@
   <h2>Younghwani</h2>
   
   <p>Hi~ I'm Younghwan! 😀 <br />
-  I’m currently learning Web, NLP, Ios!<br />
-  📫 How to reach me<br />
+  I’m currently learning Web!<br />
+  📫 How to reach me
     <a href="mailto:younghwankim624@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a></p>
   
 ![Younghwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghwani&count_private=true&show_icons=true&theme=tokyonight)
@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"> &nbsp 
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/></a> &nbsp 
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase"/></a> &nbsp 
 <!-- <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/></a> &nbsp  -->
